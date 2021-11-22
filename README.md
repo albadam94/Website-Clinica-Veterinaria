@@ -1,2 +1,2 @@
 # Website-Clinica-Veterinaria
-Website building in HTML, CSS and Bootstrap
+Web page built with html, css and bootstrap
